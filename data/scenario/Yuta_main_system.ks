@@ -15,8 +15,8 @@
 キャラクター「結城 悠太」で本当によろしいですか？[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="yuta.ks"  size="50"  text="YES"  target="*悠太パスワード"  x="74"  y="225"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="chara_choice.ks"  size="50"  target="*キャラクター選択"  text="NO"  x="930"  y="233"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="Yuta_main_system.ks"  size="50"  text="yes"  target="*悠太パスワード"  x="282"  y="383"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="Opening.ks"  size="50"  text="no"  target="*キャラクター選択"  x="769"  y="381"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *悠太パスワード
 

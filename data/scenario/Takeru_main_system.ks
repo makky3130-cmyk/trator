@@ -15,8 +15,8 @@
 キャラクター「河村 健」で本当によろしいですか？[p]
 [_tb_end_text]
 
-[glink  color="black"  storage="takeru.ks"  size="50"  text="YES"  target="*健パスワード"  x="74"  y="225"  width=""  height=""  _clickable_img=""  ]
-[glink  color="black"  storage="chara_choice.ks"  size="50"  target="*キャラクター選択"  text="NO"  x="930"  y="233"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="Takeru_main_system.ks"  size="50"  text="yes"  target="*健パスワード"  x="282"  y="383"  width=""  height=""  _clickable_img=""  ]
+[glink  color="black"  storage="Opening.ks"  size="50"  text="no"  target="*キャラクター選択"  x="769"  y="381"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *健パスワード
 

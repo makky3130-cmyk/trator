@@ -1,0 +1,16 @@
+{
+    "name": {
+        "ja": "ブラックポップ",
+        "en": "BlackPop"
+    },
+    "pm": {
+        "font_color": "0xF2F2F2",
+        "name_color": "0xF5F5F5",
+        "frame_opacity": 255
+    },
+    "glink": "ts20",
+    "pro": 0,
+    "width": 1280,
+    "height": 720,
+    "author": "kopanda"
+}

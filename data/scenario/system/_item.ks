@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/黒.png"  ]
+[preload  storage="./data/fgimage/default/聖　紙切れ.png"  ]
+[preload  storage="./data/fgimage/default/澪　ハンカチ.png"  ]
+[preload  storage="./data/fgimage/default/健　カメラ.png"  ]
+[preload  storage="./data/fgimage/default/慎　フェニルエチルアミン.png"  ]
+[preload  storage="./data/fgimage/default/詩織　ハッキングデバイス.png"  ]
+[preload  storage="./data/fgimage/default/悠太　透明な欠片.png"  ]
+[return]

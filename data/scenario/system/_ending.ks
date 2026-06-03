@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/夜の教室.png"  ]
+[preload  storage="./data/fgimage/chara/6/悠太　問い詰め　背景透過済み_upscayl_4x_upscayl-standard-4x.png"  ]
+[preload  storage="./data/bgimage/執務室.png"  ]
+[preload  storage="./data/bgimage/光.webp"  ]
+[preload  storage="./data/bgimage/昼の教室.png"  ]
+[preload  storage="./data/bgimage/黒.png"  ]
+[return]

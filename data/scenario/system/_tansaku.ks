@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/横　マップ.jpg"  ]
+[preload  storage="./data/fgimage/default/丸　背景透過済み.png"  ]
+[preload  storage="./data/bgimage/執務室.png"  ]
+[preload  storage="./data/bgimage/中庭.png"  ]
+[preload  storage="./data/bgimage/実験室.png"  ]
+[preload  storage="./data/bgimage/廊下.png"  ]
+[preload  storage="./data/fgimage/default/隠しファイル.jpg"  ]
+[return]

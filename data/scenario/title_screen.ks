@@ -2,6 +2,8 @@
 
 *ゲームスタート地点
 
+[stopbgm  time="1000"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="Debussy_Clair_de_Lune.mp3"  ]
 [cm  ]
 [tb_ptext_hide  time="0"  ]
 [tb_hide_message_window  ]

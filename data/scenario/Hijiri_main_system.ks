@@ -505,7 +505,7 @@ GNから指示がでたら、「次に進む」ボタンを押してメインス
 [_tb_end_text]
 
 [glink  color="black"  storage="Hijiri_main_system.ks"  size="40"  text="次に進む"  x="194"  y="316"  width=""  height=""  _clickable_img=""  target="*聖会議１"  ]
-[glink  color="black"  storage="Hijiri_main_system.ks"  size="40"  text="もう一度見る"  x="706"  y="317"  width=""  height=""  _clickable_img=""  target="*聖会議１"  ]
+[glink  color="black"  storage="Hijiri_main_system.ks"  size="40"  text="もう一度見る"  x="706"  y="317"  width=""  height=""  _clickable_img=""  target="*聖HO開始"  ]
 [s  ]
 *聖会議１
 

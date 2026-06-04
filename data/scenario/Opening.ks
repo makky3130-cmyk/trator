@@ -137,6 +137,7 @@
 *キャラクター選択
 
 [mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+[tb_image_hide  time="0"  ]
 [cm  ]
 [tb_ptext_hide  time="0"  ]
 [mask_off  time="500"  effect="fadeOut"  ]

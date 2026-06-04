@@ -11,6 +11,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、聖が真犯人として結論付けられた。[p]
@@ -42,6 +43,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、澪が真犯人として結論付けられた。[p]
@@ -73,6 +75,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、健が真犯人として結論付けられた。[p]
@@ -104,6 +107,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、慎が真犯人として結論付けられた。[p]
@@ -135,6 +139,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、詩織が真犯人として結論付けられた。[p]
@@ -166,6 +171,7 @@
 [bg  time="0"  method="crossfade"  storage="夜の教室.png"  ]
 [tb_ptext_show  x="32.000003814697266"  y="32"  size="65"  color="0xffffff"  time="1000"  text="エンディング"  face="serif,'游明朝'"  anim="false"  edge="0x030000"  shadow="undefined"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #GM
 投票の結果、悠太が真犯人として結論付けられた。[p]
